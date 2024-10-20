@@ -18,6 +18,7 @@ Ce site:
  Quelle outils tu utilises ?
  J'utilise de nombreux outils comme Visual code studio(lien vers wiki)(éditeur de code),
  Git/Github(lien vers wiki)(gestion de dépôt distant)...
-
+ Où peut on trouver le code source de ce site?
+ Tu peux le trouver sur le Github de mon projet cliques sur le logo Github.
 
  

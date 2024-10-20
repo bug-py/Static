@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sixtyfour+Convergence&display=swap');
 *{
     margin: 0;
+    font-family: sans-serif;
 }
 header{
     display: flex;
@@ -37,3 +39,80 @@ header h1:hover{
     scale:1  1.2 ;
     transition:0.5s;
 }
+.information{
+    display:flex;
+    justify-content: space-around;
+    height: 700px;
+   
+    
+}
+
+.moi li{
+   color:red;
+   font-size: 25px;
+   font-family: "Anton",sans-serif ;
+   
+}
+.moi p{
+    color:blue;
+    font-size: 20px;
+    font-family: "Anton",sans-serif ;
+}
+.site li{
+    color: black;
+    font-size: 25px;
+    font-family: "Anton",sans-serif ;
+    
+ }
+ .site p{
+     color:white;
+     font-size: 20px;
+     font-family: "Anton",sans-serif ;
+ }
+ .moi{
+    align-self: self-start;
+    background-color: black;
+   
+   
+ }
+ .site,.moi{
+    border-radius: 10px 5px;
+    width:max-content;
+    text-align: center;
+ }
+ .site h2,.moi h2{
+   font-size: 50px;
+   font-family: "Sixtyfour Convergence", sans-serif;
+
+ }
+ .site{
+    align-self:self-end ;
+    background-color:brown;
+ }
+.présentation{
+    font-size: 50px;
+    font-family: "Anton",sans-serif ;
+    width: min-content;
+    margin: 20px auto;
+    color: black;
+    border-radius: 10px;
+    background-color: turquoise;
+}
+.information a{
+    font-weight: 900;
+    text-decoration: none;
+}
+.information a:hover{
+    text-decoration:underline;
+}
+.py{
+    color:palegreen;
+}
+.js{
+    color: yellow;
+}
+.scrath{
+    color:orange;
+}
+ 
+ 
