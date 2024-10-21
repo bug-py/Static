@@ -14,7 +14,7 @@ A propos de moi:
  J'ai commencé la programmation grâce à Scrath(lien vers wiki)
  cela m'a permit d'apprendre les fonctions , variables ,la logique..⚙️
 Ce site:
- Pourquoi crée tu ce site ?
+ Pourquoi crées tu ce site ?
  J'ai crée ce site pour m'entrainer à la création de site web static 🕸️.
  Quelle outils  utilises tu ?
  J'utilise de nombreux outils comme Visual code studio(lien vers wiki)(éditeur de code),
