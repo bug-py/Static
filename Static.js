@@ -1,3 +1,5 @@
 let titre=document.title
-window.addEventListener("focus",()=>{document.title=titre})
-window.addEventListener("blur",()=>{document.title="Reviens 🫵"})
+let icon=document.querySelector("link[rel='icon']")
+let href=icon.getAttribute('href')
+window.addEventListener("focus",()=>{document.title=titre;icon.setAttribute("href",href);})
+window.addEventListener("blur",()=>{document.title="Reviens 🫵";icon.setAttribute("href","./img/Alert.png")})

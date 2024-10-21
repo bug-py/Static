@@ -1,6 +1,7 @@
 ---------------------------------------------------------------------------
-                                                                  LOGO
-Bienvenue sur mon site 😎                                         GITHUB
+              
+MON                                                                 LOGO
+LOGO                   Bienvenue sur mon site 😎                   GITHUB
 
 --------------------------------------------------------------------------
           Présentation
@@ -15,7 +16,7 @@ A propos de moi:
 Ce site:
  Pourquoi crée tu ce site ?
  J'ai crée ce site pour m'entrainer à la création de site web static 🕸️.
- Quelle outils tu utilises ?
+ Quelle outils  utilises tu ?
  J'utilise de nombreux outils comme Visual code studio(lien vers wiki)(éditeur de code),
  Git/Github(lien vers wiki)(gestion de dépôt distant)...
  Où peut on trouver le code source de ce site?
