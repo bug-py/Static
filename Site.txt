@@ -5,21 +5,20 @@ LOGO                   Bienvenue sur mon site 😎                   GITHUB
 
 --------------------------------------------------------------------------
           Présentation
-A propos de moi:
- Qui es tu?
+À propos de moi:
+ Qui es-tu?
  Je suis un garçon de pseudo bug-py(lien) passionné par la programmation.
- Quelle langages de programmation maitrise tu?
+ Quels langages de programmation maitrise-tu?
  Je maitrise le Python 🐍(lien vers wiki) et JavaScript 📜(lien vers wiki)
- Comment as tu commencé ?
+ Comment as-tu commencé ?
  J'ai commencé la programmation grâce à Scrath(lien vers wiki)
- cela m'a permit d'apprendre les fonctions , variables ,la logique..⚙️
+ Cela m'a permis d'apprendre les fonctions, les variables , la logique..⚙️
 Ce site:
- Pourquoi as tu créé ce site ?
- J'ai créé ce site pour m'entrainer à la création de site web static 🕸️.
- Quelle outils  utilises tu ?
+ Pourquoi as-tu créé ce site ?
+ J'ai créé ce site pour m'entrainer à la création de sites web static 🕸️.
+ Quels outils  utilises-tu ?
  J'utilise de nombreux outils comme Visual code studio(lien vers wiki)(éditeur de code),
  Git/Github(lien vers wiki)(gestion de dépôt distant)...
- Où peut on trouver le code source de ce site?
- Tu peux le trouver sur le Github de mon projet cliques sur le logo Github.
-
+ Où peut-on trouver le code source de ce site ?
+ Tu peux le trouver sur le GitHub de mon projet (cliques sur le logo GitHub).
  
